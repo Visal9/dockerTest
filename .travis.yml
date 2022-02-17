@@ -10,6 +10,6 @@ script:
 notifications:
   email:
     recipients:
-      - info1@cloudnloud.com
+      - hedewes545@alfaceti.com
     on_success: always
     on_failure: always
